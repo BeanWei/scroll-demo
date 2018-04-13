@@ -1,7 +1,9 @@
 # scroll-demo
 
 [用ElemeFE的vue-infinite-scroll实现](https://github.com/ElemeFE/vue-infinite-scroll)
+
 [由干货集中营提供的api](http://gank.io/)
+
 ajax采用 axios
 ## Build Setup
 
